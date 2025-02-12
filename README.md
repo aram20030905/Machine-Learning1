@@ -10,7 +10,6 @@ This project uses a dataset of restaurant tips and builds a linear regression mo
 - **numpy**: For numerical operations.
 - **plotly.express**: For interactive plots and visualizations.
 - **sklearn**: For machine learning tasks such as splitting the data, training the model, and evaluation.
-- **seaborn**: For statistical data visualization (though not explicitly used in the code here).
 - **matplotlib**: For creating static plots (although only Plotly is used for interactive plots).
 
 ## Installation
